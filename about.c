@@ -2,4 +2,6 @@
 void main()
 {
 print("hello world");
+printf("learning git commands");
 }
+
